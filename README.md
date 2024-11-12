@@ -38,8 +38,7 @@ int main()
 ~~~
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/379e91bf-9d40-4424-88ea-7eeca4024bfe)
-
+![alt text](image.png)
 ## 2.To Write a C program that illustrates files locking
 ~~~
 #include <fcntl.h>
@@ -87,7 +86,6 @@ int main (int argc, char* argv[])
 ~~~
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/554e9a1c-551c-4a26-99f9-d3540245e710)
-
+![alt text](image-1.png)
 # RESULT:
 The programs are executed successfully.
